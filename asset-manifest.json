@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/construction-jobs/static/css/main.0f9e5705.chunk.css",
+    "main.js": "/construction-jobs/static/js/main.2e2d72ff.chunk.js",
+    "main.js.map": "/construction-jobs/static/js/main.2e2d72ff.chunk.js.map",
+    "runtime-main.js": "/construction-jobs/static/js/runtime-main.3cd476f7.js",
+    "runtime-main.js.map": "/construction-jobs/static/js/runtime-main.3cd476f7.js.map",
+    "static/js/2.d1a09685.chunk.js": "/construction-jobs/static/js/2.d1a09685.chunk.js",
+    "static/js/2.d1a09685.chunk.js.map": "/construction-jobs/static/js/2.d1a09685.chunk.js.map",
+    "static/js/3.23004445.chunk.js": "/construction-jobs/static/js/3.23004445.chunk.js",
+    "static/js/3.23004445.chunk.js.map": "/construction-jobs/static/js/3.23004445.chunk.js.map",
+    "index.html": "/construction-jobs/index.html",
+    "static/css/main.0f9e5705.chunk.css.map": "/construction-jobs/static/css/main.0f9e5705.chunk.css.map",
+    "static/js/2.d1a09685.chunk.js.LICENSE.txt": "/construction-jobs/static/js/2.d1a09685.chunk.js.LICENSE.txt",
+    "static/media/logo.e7218ea6.jpeg": "/construction-jobs/static/media/logo.e7218ea6.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cd476f7.js",
+    "static/js/2.d1a09685.chunk.js",
+    "static/css/main.0f9e5705.chunk.css",
+    "static/js/main.2e2d72ff.chunk.js"
+  ]
+}
